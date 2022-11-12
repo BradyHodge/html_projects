@@ -1,0 +1,48 @@
+/* Apil 5, 2022 */
+
+.left		{width: 300px;
+			margin-left: 15px; 
+			float: left;
+			padding: 5px;}
+			
+.right 		{width: 300px;
+			float: right;
+			padding: 5px;}
+
+.photo 		{-ms-filter: sepia(70%);
+			-moz-filter: sepia(70%);
+			-webkit-filter: sepia(70%);
+			-o-filter: sepia(70%);}
+
+article 	{width: 650px;
+			height: 385px;
+			float: left;
+			clear: right;}
+
+aside		{width: 150px;
+			height: 580px;
+			float: left;
+			background-color: #336699;
+			text-align: center;}
+
+body		{background-color: #61b4cf;
+			font-family: Arial;
+			font-size: 11pt;}
+
+header		{width: 650px;
+			height: 75px;
+			float: left;
+			clear: right;
+			text-align: center;
+			background-color: #336699;}
+
+div 		{width: 650px;
+			float: left;
+			background-color: #cdcdcd;}
+
+section		{width: 900px;
+			margin: auto;
+			-ms-filter: drop-shadow(16px 16px 10px #024e68);
+			-moz-filter: drop-shadow(16px 16px 10px #024e68);
+			-webkit-filter: drop-shadow(16px 16px 10px #024e68);
+			-o-filter: drop-shadow(16px 16px 10px #024e68);}

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<meta charset="utf-8">
+			<title>Lab 4-2 Hodge</title>
+			<!-- January 5, 2022 -->
+			
+			<style>
+			
+			article			{font-family:  arial;
+							padding: 5px;
+							background-color: #d4d4d4}
+			
+			h2				{font-style: italic;
+							color: #000000}
+			
+			h2:first-letter	{font-size: 26pt;
+							color: #006DAA}
+			
+			</style>
+		</head>
+		
+		<body style="background-color: #ffffff">
+			<header style="text-align: center; color: #ffffff; background-color: #006DAA">
+				<h1>The Webmaster’s Job Description<h1>
+			</header>
+			
+			<hr>
+			
+			<article>
+				<h2>Position Description</h2>
+				<p>
+				The webmaster is responsible for structuring the user interface and overall customer experience for our web sites and applications. This includes overall navigation flow, layout of specific pages, and working with graphic designer to implement new company branding.
+				</p>
+			</article>
+			
+			<br>
+			
+			<article>
+				<h2>Position Responsibilities</h2>
+			
+				<h3>The primary responsibility of the Web Developer will include:</h3>
+				<ul>
+					<li>Developing, updating and maintaining Internet and Intranet websites for the company.
+					<li>Coordinating with the appropriate departments and staff to update content and manage site design.
+					<li>Design, code, and enforce standards for each design and ensure cross-browser & platform compatibility.
+					<li>Ensure that the layout and design of content is accessible, intuitive, and consistent.
+					<li>Create logos and/or other graphic materials.
+					<li>Evaluate the competitive Websites with regard to content and functionality to make improvement recommendations to our websites based on emerging web services and trends. 
+					<li>Work closely with management to assure that website design and content appropriately reflects the company's goals and mission.
+				</ul>
+			
+			</article>
+			
+			<br>
+			
+			<article>
+				<h2>Position Requirements</h2>
+				<ul>
+					<li>Degree in graphic design, web design or other media-related field.
+					<li>At least one year experience in web design preferred.
+					<li>Must have portfolio containing well-designed, content-heavy websites that the candidate has worked in previously.
+					<li>Experience with HTML5 & CSS3, JavaScript, and PHP.
+					<li>Strong eye for typography, color theory, and content layouts.
+					<li>Exceptional attention to detail.
+					<li>Be able to work as a member of a team.
+					<li>Ability to multi-task in a fast-paced, deadline-driven environment.
+					<li>Strong work ethic.
+				</ul>
+			
+			</article>
+
+		</body>
+	</html>

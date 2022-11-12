@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Lab 2-3 Hodge</title>
+		<!--December 10, 2021-->
+		
+		<style>
+		
+		body	{background-color: #003399}
+		
+		header	{color: #ffffff}
+		
+		dl		{background-color: #3399ff}
+		dt		{background-color: #996600;
+				color: #ffffff}
+		dd		{background-color: #ff8800}
+		</style>
+	</head>
+	
+	<body>
+		<header>
+			<h1>Resume Outline</h1>
+		</header>
+		<article>
+			<dl>
+				<dt>Personal Information
+					<dd>Name
+					<dd>Address
+					<dd>Phone Number
+					<dd>Email Address
+				<dt>Education
+					<dd>Schools (Locations and Dates Attended)
+					<dd>Grade Point Average (if 3.0 or above)
+					<dd>Special Training
+					<dd>Certifications
+				<dt>Experience / Work History
+					<dd>Current Employer (including job duties & responsibilities)
+					<dd>Previous Employers
+					<dd>Internships
+					<dd>Relevant Volunteer Organizations
+				<dt>Extracurricular Activates
+					<dd>School Clubs
+					<dd>Community Groups(Boy/Girl Scouts, etc.)
+					<dd>Leadership Positions Held
+					<dd>Hobbies
+				<dt>References
+					<dd>Generally not included unless the resume has been specifically requested from you, or you are applying for a specific position 
+			</dl>
+		</article>
+	
+	</body>
+</html>

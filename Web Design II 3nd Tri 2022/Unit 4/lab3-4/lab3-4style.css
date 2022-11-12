@@ -1,0 +1,58 @@
+/* March 15, 2022 */
+
+a			{color: #ffffff;
+			text-decoration: none;}
+			
+
+a:visited	{color: #fefefe;}
+
+a:hover		{color:#ffcc00}
+
+article		{background-color: #ccccdd; 
+			padding: 10px;
+			border: solid #000000 1px;
+			width: 400px;
+			min-height: 300px;
+			position: absolute;
+			top: 125px;
+			left: 240px;
+			width: 400px;}
+			
+aside		{background-color: #071871;
+			border-radius: 10px;
+			position: absolute;
+			top: 80px;
+			left: 700px;
+			height: 255px;
+			width: 150px;}
+			
+body		{background: -ms-linear-gradient(top, #ffffff, #7080d7);
+			background: -moz-linear-gradient(top, #ffffff, #7080d7);
+			background: -webkit-linear-gradient(top, #ffffff, #7080d7);
+			background: -O-linear-gradient(top, #ffffff, #7080d7);
+			font-family: Arial;
+			height: 1000px;}
+			
+header		{position: absolute;
+			top: 10px;
+			left: 50px;
+			width: 800px;
+			height: 90px;
+			background-color: #071871;
+			border-radius: 10px;
+			text-align: center;
+			color: #ffffff;}
+			
+h1			{line-height: 50px;}
+
+nav			{position: absolute;
+			border-radius: 10px;
+			background-color: #071871;
+			color: #ffffff;
+			top: 80px;
+			left: 50px;
+			width: 150px;
+			height: 225px;}
+
+p			{text-align: justify;}
+			

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<meta charset="utf-8">
+			<title>Lab 5-4 Hodge</title>
+			<!-- January 12, 2022 -->
+			<link href="lab5-4style.css" rel="stylesheet" type="text/css" />
+			
+		</head>
+		
+		<body>
+			<header>
+				<h1>Jason's Book Depot</h1>
+			</header>
+			
+			<article>
+				<p style="text-align: center; font-style: italic">
+					Where you can find great bargains and deals on <br> new and used books!
+				</P>
+				<p>
+				Jason's Book Deport <br>
+				1013 Main St <br>
+				Lewisville, TX 75029 <br>
+				</p>
+				<h2>Contents</h2>				
+				<nav>
+					<ul>
+						<li>About Jason's Book Depot
+						<li>New Books
+						<li>Special Events
+					</ul>
+				</nav>
+			</article>
+		</body>
+	</html>

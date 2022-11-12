@@ -1,0 +1,12 @@
+article 		{padding: 10px;}
+
+body			{background-color: #6c8cd5;
+				color: #ffffff;
+				font-family: Arial;}
+
+header			{background-color: #ff9500;
+				text-align: center;}
+
+h1				{line-hight: 50px;}
+
+nav				{background-color: #ff9500;}
