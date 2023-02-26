@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Challenge Lab 7 Hodge</title>
+	<link href="c_lab7_style.css" rel="stylesheet" type="text/css" />
+	<!-- February 7, 2022 -->
+  </head>
+  
+  <body>
+	<header>
+		<h1>Origin of the Days of the Week</h1>
+	</header>
+	<section>
+		<nav>
+			<ul>
+				<li><a href="c_lab7.html">Home</a>
+				<li><a href="sunday.html">Sunday</a>
+				<li><a href="monday.html">Monday</a>
+				<li><a href="tuesday.html">Tuesday</a>
+				<li><a href="wednesday.html">Wednesday</a>
+				<li><a href="thursday.html">Thursday</a>
+				<li><a href="friday.html">Friday</a>
+				<li><a href="saturday.html">Saturday</a>
+			</ul>
+		</nav>
+		<article>
+			<h2>Saturday</h2>
+			<img src="saturni.jpg">
+			<p>
+				Saturday was one of three days whose name was not copied from the Norse gods. Saturday was derived from the Roman god Saturni whose namesake was given to the planet. The day was referred to as "dies Saturni" which translates into "Day of Saturn". The Greek god equivalent was Cronus and was the father of Zues. Saturni was considered the god of time, harvest, wealth, and in English translates into "washing-day".
+			</p>
+		<article>
+	</section>
+	<footer>
+		© IE Class
+	</footer>
+  </body>
+</html>

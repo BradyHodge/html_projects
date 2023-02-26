@@ -1,0 +1,68 @@
+body			{background-image: url(background7.jpg);
+				/* font-size: 14pt; */
+				font-family: arial}
+
+header			{background-image: url(header.jpg);
+				height: 75px;
+				border-radius: 10px;
+				float: center;
+				width: 75%;
+				margin: auto;
+				line-height: 70px}
+				
+h1				{text-align: center;
+				color: #ffffff;
+				}
+
+section			{height: 400px;
+				margin-top: 10px;
+				margin-bottom: 30px;
+				float: center;
+				width: 75%;
+				margin: auto}
+
+nav				{background-color: #226078;
+				height: 220px;
+				width: 20%;
+				border-radius: 10px;
+				float: left;
+				margin-top: 10px;
+				color: #cdcdcd;}
+				
+article			{background-color: #62b1d0;
+				width: 70%;
+				min-height: 40px;
+				margin-bottom: 10px;
+				border-radius: 10px;
+				float: right;
+				padding: 10px;
+				color: #000000;
+				margin-top: 10px;}
+				
+h2				{background-color: #226078;
+				width: 75%;
+				text-align: center;
+				border-radius: 5px;
+				color: #ffffff;
+				margin: auto;}
+				
+footer			{background-color: #024c68;
+				height: 30px;
+				clear: both;
+				float: center;
+				border-radius: 5px;
+				color: #ffffff;
+				text-align: center;
+				width: 75%;
+				margin: auto;
+				line-height: 30px}
+				
+a				{text-decoration: none;
+				color: #cdcdcd;}
+				
+a:hover			{color: #62b1d0;}
+
+img				{float: right;
+				border-radius: 10px;
+				border: solid #000000 1px;
+				margin: 10px;}

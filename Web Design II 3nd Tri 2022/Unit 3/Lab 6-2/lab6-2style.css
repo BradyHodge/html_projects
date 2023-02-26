@@ -1,0 +1,19 @@
+/* March 9, 2022 */
+
+body			{background-color: #ffb073;}
+
+header			{background-color: #ffaa00; text-align: center;}
+
+h1				{line-height: 70px;
+				font-family: Arial;}
+				
+img				{float: left;}
+
+div				{width: 525px;
+				padding: 0px;
+				float: left;}
+				
+section			{width: 900px;
+				height: 600px;
+				padding: 10px;
+				background-color: #bf6e30;}

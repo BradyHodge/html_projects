@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <!--February 28, 2022 -->
+
+    <style>
+    header    {width: 930px;}
+    </style>
+
+  </head>
+  
+  <body>
+	<header>
+		<h1>The First Programmer & The Father of the Computer</h1>
+    </header>
+    <section>
+      <article>
+        <h2>The First Programer</h2>
+        <p>
+          Ada Lovelace was an English mathematician and writer, chiefly known for her work on Charles Babbage's proposed mechanical general-purpose computer, the Analytical Engine. She was the first to recognise that the machine had applications beyond pure calculation, and to have published the first algorithm intended to be carried out by such a machine. As a result, she is often regarded as the first computer programmer.
+        </p>
+        <nav>
+          <a href="ada.html">Read More</a>
+        </nav>
+      </article>
+      <article>
+        <h2>The Father of the Computer</h2>
+        <p>
+          Charles Babbage was a mathematician, philosopher, inventor and mechanical engineer. Babbage originated the concept of a digital programmable computer. He is considered to be The Father of the Computer, as his work became the inspiration for many experaments for years to come. 
+        </p>
+        <nav>
+          <a href="charles.html">Read More</a>
+        </nav>
+      </article>
+    </section>
+  </body>
+</html>
